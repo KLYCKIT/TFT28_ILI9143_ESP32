@@ -1,4 +1,4 @@
-# TFT_MODULES_ESP32_EXAMPLES
+# TFT_28_ILI9143_ESP32_EXAMPLES
 Ejemplos para modulos TFT con ESP32
 
 Features
