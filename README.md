@@ -10,10 +10,11 @@ LIBRARIES
 
 Full support for ILI9341 based TFT modules in 4-wire SPI mode. 
 
+------------------------
+
 Connecting the display
 
 Display module: ESP32 PIN 
---------------- ---------
 T_IRQ:          -1
 
 T_DO(miso):     22
