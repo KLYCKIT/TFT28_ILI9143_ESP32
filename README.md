@@ -33,7 +33,7 @@ sck:            18
 
 sdi(miso):      19
 
-DC:             16 (data/command)
+DC:             27 (data/command)
 
 RESET:          33
 
