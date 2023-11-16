@@ -11,6 +11,7 @@ Connecting the display
 ESP32 pin	Display module	Notes
 
 T_IRQ:      -1
+
 T_DO(miso): 22
 T_DIN(mosi):23
 T_CS:        5 (touch screen CS)
