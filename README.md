@@ -1,10 +1,14 @@
 # TFT_28_ILI9143_ESP32_EXAMPLES
 Ejemplos para modulos TFT con ESP32
 
-Features
+LIBRARIES
 
-Full support for ILI9341, ILI9488, ST7789V and ST7735 based TFT modules in 4-wire SPI mode. 
+- LOVYANGRFX
 
+- ARDUINO GFX
+
+
+Full support for ILI9341 based TFT modules in 4-wire SPI mode. 
 
 Connecting the display
 
