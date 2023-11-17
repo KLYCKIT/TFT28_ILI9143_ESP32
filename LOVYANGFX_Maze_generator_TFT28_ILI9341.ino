@@ -8,8 +8,7 @@ Maze generator on 320x240 ili9341 display (Wemos/esp8266 sketch)
 // http://www.dellascolto.com/bitwise/2017/11/02/maze-generator/
 
 //=====================================================================
-// Maze generator ESP32_2432S028 : 2022.08.01 : macsbug
-// https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/
+// Maze generator ESP32_2432S028 : 2022.08.01 : KLYCKIT
 //=====================================================================
 // HARD : EESP32_2432S028 : 
 /// Dev environment  : Arduino IDE 1.8.19
@@ -21,8 +20,7 @@ Maze generator on 320x240 ili9341 display (Wemos/esp8266 sketch)
 // Library           : lovyanGFX 
 //                   : https://github.com/lovyan03/LovyanGFX
 //=====================================================================
-// Maze generator with 16bit MRB3511 S3 Minikit : 2022.07.22 : macsbug
-// https://macsbug.wordpress.com/2022/08/03/3-5%e2%80%b3-16bit-lcd-and-s3-minikit/
+// Maze generator with 16bit MRB3511 S3 Minikit : 2022.07.22 : KLYCKIT
 //=====================================================================
 
 #pragma GCC optimize ("Ofast")
