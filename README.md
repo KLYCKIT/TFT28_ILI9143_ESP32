@@ -31,7 +31,7 @@ led:            32
 
 sck:            18
 
-sdi(miso):      19
+sdi(miso):      23
 
 DC:             27 (data/command)
 
