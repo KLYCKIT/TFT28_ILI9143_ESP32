@@ -85,7 +85,7 @@ public:
       cfg.freq = 1000000;     // SPIクロックを設定
       cfg.pin_sclk = 18;     // SCLKが接続されているピン番号
       cfg.pin_mosi = 23;     // MOSIが接続されているピン番号
-      cfg.pin_miso = 22;     // MISOが接続されているピン番号
+      cfg.pin_miso = 19;     // MISOが接続されているピン番号
       cfg.pin_cs   =  5;     //   CSが接続されているピン番号
       _touch_instance.config(cfg);
       _panel_instance.setTouch(&_touch_instance);  // タッチスクリーンをパネルにセットします。
